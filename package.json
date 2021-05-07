@@ -21,7 +21,7 @@
     "jdenticon": "^1.7.2",
     "js-sha256": "^0.6.0",
     "loaders.css": "^0.1.2",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "numeral": "^2.0.4",
     "qr.js": "0.0.0",
     "scriptloader": "^1.1.2",
